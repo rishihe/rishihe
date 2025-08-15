@@ -1,6 +1,9 @@
 ## Hi, i'm Rishi
 
-<br> computer science student at Ips Academy </br>
+<br> 👋 Hey there, I’m Rishi Nagde!
+🚀 Second-year CSE Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
+I’m a 19-year-old tech enthusiast passionate about building efficient, user-friendly, and creative software solutions.
+Currently, I’m exploring Web Development, Python Projects, and Problem Solving in C++ while continuously improving my DSA skills. </br>
 <br> web devloper and AI enthusiasts </br>
 
 
