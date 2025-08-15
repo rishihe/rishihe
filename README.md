@@ -4,7 +4,18 @@
 🚀 Second-year CSE Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
 I’m a 19-year-old tech enthusiast passionate about building efficient, user-friendly, and creative software solutions.
 Currently, I’m exploring Web Development, Python Projects, and Problem Solving in C++ while continuously improving my DSA skills. </br>
-<br> web devloper and AI enthusiasts </br>
+
+
+<br> 📌 What I’m Working On
+🗂 Building small utility apps (Image Converters, To-Do Apps, etc.)
+🌱 Improving my problem-solving with LeetCode & Codeforces
+🛠 Learning Full Stack Development
+🤝 Contributing to open source projects
+
+🎯 Goals for 2025
+🔹 Build 3+ solid portfolio projects for internships
+🔹 Land my first tech internship
+🔹 Contribute to at least 2 open source projects </br>
 
 
 
